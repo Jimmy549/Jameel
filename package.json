@@ -1,0 +1,13 @@
+{
+  "name": "day-1-project",
+  "version": "1.0.0",
+  "description": "HTML basics project for Day 1",
+  "main": "index.html",
+  "scripts": {
+    "start": "serve .",
+    "build": "echo 'No build step required for static HTML'"
+  },
+  "keywords": ["html", "static", "website"],
+  "author": "Jimmy",
+  "license": "MIT"
+}
